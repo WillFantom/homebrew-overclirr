@@ -1,2 +1,7 @@
-# homebrew-overclirr
-Homebrew package for the OverCLIrr tool
+# OverCLIrr Brew
+
+Install OverCLIrr for MacOS using brew:
+
+```bash
+brew install willfantom/overclirr/overclirr
+```
